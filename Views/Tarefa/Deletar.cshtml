@@ -1,0 +1,47 @@
+@model api.Models.Tarefa
+
+@{
+    ViewData["Title"] = "Deletar do contato";
+}
+
+<h1 style="color: red;">Deseja realmente deletar esse contato? Essa opeeração é irreversivel</h1>
+
+</hr>
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.Titulo)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor( x => x.Titulo)
+        </dt>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.Descricao)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor( x => x.Descricao)
+        </dt>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.DataHora)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor( x => x.DataHora)
+        </dt>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.Concluida)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor( x => x.Concluida)
+        </dt>
+    </dl>
+</div>
+
+<form asp-action="Deletar">
+    <input type="submit" value="Deletar" class="btn btn-danger" />
+</form>
+
+<br>
+<a asp-action="Index">Voltar</a>

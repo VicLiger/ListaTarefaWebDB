@@ -1,0 +1,42 @@
+@model api.Models.Tarefa
+
+@{
+    ViewData["Title"] = "Detalhes do contato";
+}
+
+<h1>Detalhes</h1>
+
+<div>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.Titulo)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor( x => x.Titulo)
+        </dt>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.Descricao)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor( x => x.Descricao)
+        </dt>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.DataHora)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor( x => x.DataHora)
+        </dt>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(x => x.Concluida)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor( x => x.Concluida)
+        </dt>
+    </dl>
+</div>
+<a asp-action="Editar" asp-route-id="@Model.Id">Editar</a>
+<hr />
+<a asp-action="Index">Voltar</a>
