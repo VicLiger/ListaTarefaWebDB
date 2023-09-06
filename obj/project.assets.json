@@ -3477,11 +3477,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\victo\\OneDrive\\Documentos\\api\\api.csproj",
+      "projectUniqueName": "c:\\Users\\victo\\OneDrive\\Documentos\\ListaTarefaWebDB\\api.csproj",
       "projectName": "api",
-      "projectPath": "c:\\Users\\victo\\OneDrive\\Documentos\\api\\api.csproj",
+      "projectPath": "c:\\Users\\victo\\OneDrive\\Documentos\\ListaTarefaWebDB\\api.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\victo\\OneDrive\\Documentos\\api\\obj\\",
+      "outputPath": "c:\\Users\\victo\\OneDrive\\Documentos\\ListaTarefaWebDB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config"

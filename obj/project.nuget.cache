@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kq3YXLc2EgALUyju98mHNbYjAxp0i+F2+RQhzAWn877vciyJjNvkeQGAvZaxz7T29deePALKiyU+AnRIPYWYCw==",
+  "dgSpecHash": "TE2irWR+jftRqqTXgiSIiMaazpAgAuToW1woaOwdLwV0Y8YkFg68YsMchOyoa1mqEtQIFGP/E/CkYNAvViojdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\OneDrive\\Documentos\\api\\api.csproj",
+  "projectFilePath": "c:\\Users\\victo\\OneDrive\\Documentos\\ListaTarefaWebDB\\api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

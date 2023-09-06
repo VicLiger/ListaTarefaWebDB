@@ -85,10 +85,8 @@ namespace api.Controllers
         {
             var tarefa = _context.Tarefa.Find(id);
             
-            if(tarefa == null)
-            {
-                return RedirectToAction(nameof(Index));
-            }
+            _context.Tarefa.Remove(tarefa);
+            _context.SaveChanges();
 
             return View(tarefa);
         }

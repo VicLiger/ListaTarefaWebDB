@@ -8,57 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = api
 build_property.RootNamespace = api
-build_property.ProjectDir = C:\Users\victo\OneDrive\Documentos\api\
+build_property.ProjectDir = c:\Users\victo\OneDrive\Documentos\ListaTarefaWebDB\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\victo\OneDrive\Documentos\api
+build_property.MSBuildProjectDirectory = c:\Users\victo\OneDrive\Documentos\ListaTarefaWebDB
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/victo/OneDrive/Documentos/api/Views/Home/Index.cshtml]
+[c:/Users/victo/OneDrive/Documentos/ListaTarefaWebDB/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive/Documentos/api/Views/Home/Privacy.cshtml]
+[c:/Users/victo/OneDrive/Documentos/ListaTarefaWebDB/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive/Documentos/api/Views/Shared/Error.cshtml]
+[c:/Users/victo/OneDrive/Documentos/ListaTarefaWebDB/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive/Documentos/api/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/victo/OneDrive/Documentos/ListaTarefaWebDB/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive/Documentos/api/Views/Tarefa/Criar.cshtml]
+[c:/Users/victo/OneDrive/Documentos/ListaTarefaWebDB/Views/Tarefa/Criar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXENyaWFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive/Documentos/api/Views/Tarefa/Deletar.cshtml]
+[c:/Users/victo/OneDrive/Documentos/ListaTarefaWebDB/Views/Tarefa/Deletar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXERlbGV0YXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive/Documentos/api/Views/Tarefa/Detalhes.cshtml]
+[c:/Users/victo/OneDrive/Documentos/ListaTarefaWebDB/Views/Tarefa/Detalhes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXERldGFsaGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive/Documentos/api/Views/Tarefa/Editar.cshtml]
+[c:/Users/victo/OneDrive/Documentos/ListaTarefaWebDB/Views/Tarefa/Editar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXEVkaXRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive/Documentos/api/Views/Tarefa/Index.cshtml]
+[c:/Users/victo/OneDrive/Documentos/ListaTarefaWebDB/Views/Tarefa/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive/Documentos/api/Views/_ViewImports.cshtml]
+[c:/Users/victo/OneDrive/Documentos/ListaTarefaWebDB/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive/Documentos/api/Views/_ViewStart.cshtml]
+[c:/Users/victo/OneDrive/Documentos/ListaTarefaWebDB/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/victo/OneDrive/Documentos/api/Views/Shared/_Layout.cshtml]
+[c:/Users/victo/OneDrive/Documentos/ListaTarefaWebDB/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-52h41k007f
