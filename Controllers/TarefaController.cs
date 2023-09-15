@@ -88,7 +88,7 @@ namespace api.Controllers
             _context.Tarefa.Remove(tarefa);
             _context.SaveChanges();
 
-            return View(tarefa);
+            return RedirectToAction("Index");
         }
     }
 }
